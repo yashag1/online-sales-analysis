@@ -1,4 +1,4 @@
-# Online Sales Data Analysis using Power BI and mySQL
+# Online Sales Data Analysis using Power BI and MySQL
 
 ## Dashboard
 ![Dashboard PDF_page-0001](https://github.com/yashag1/EDA-project-revenue/assets/137886065/6f8e9eb0-11ea-4faa-9391-4ea375577d4b)
